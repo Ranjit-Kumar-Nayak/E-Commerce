@@ -24,7 +24,7 @@ const NewsLetterBox = () => {
           placeholder="enter your email"
         />
         <button
-          className="bg-black text-white text-xg px-10 py-4"
+          className="bg-black text-white text-xg px-10 py-4 rounded-lg"
           type="submit"
         >
           Subscribe
