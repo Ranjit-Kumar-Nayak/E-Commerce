@@ -7,7 +7,7 @@ const OurPolicy = () => {
       <OurPolicyProp
         image={assets.exchange_icon}
         title={"Easy Exchange Policy"}
-        description={"We offer hassel free exchange policy"}
+        description={"We offer hassel free exchange policy.."}
       />
       <OurPolicyProp
         image={assets.quality_icon}
